@@ -5,15 +5,8 @@ body {
 h1 {
   text-align: center;
 }
-<<<<<<< HEAD
-.container {
-	margin: 0 auto;
-	width: 800px;
-	text-align: center;
-}
-=======
 
-.content {
+.container {
   margin: 0 auto;
   width: 800px;
   text-align: center;
@@ -22,4 +15,3 @@ h1 {
 .clickable {
   cursor: hand;
 }
->>>>>>> jacky_tsoi_owner_feature1
